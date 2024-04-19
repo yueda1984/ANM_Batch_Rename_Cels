@@ -35,7 +35,7 @@
 */
 
 
-var scriptVer = "1.21";
+var scriptVer = "1.22";
 
 
 function ANM_Batch_Rename_Cels()
