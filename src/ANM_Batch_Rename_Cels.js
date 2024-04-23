@@ -17,7 +17,7 @@
 	   https://docs.toonboom.com/help/harmony-17/premium/scripting/import-script.html
 	   
 	3) There is a folder named "src" inside the zip file. Copy all its contents directly to the folder above.
-	4) In Harmony, add ANM_Batch_Rename_Cels on any toolbar.
+	4) In Harmony, add ANM_Batch_Rename_Cels function to any toolbar.
 
 	
 	Direction:
